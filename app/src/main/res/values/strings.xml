@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MVP-UnitTesting-Sample</string>
+    <string name="username">Enter username</string>
+    <string name="login">Login</string>
+    <string name="password">Enter password</string>
+    <string name="login_success">Login Success</string>
+    <string name="login_failed">Login failed, Please try again</string>
+</resources>
